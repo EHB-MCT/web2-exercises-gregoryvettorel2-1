@@ -31,6 +31,7 @@ window.onload = function() {
               <p class="card-text"><small class="text-muted">${data.Year}</small></p>
               <p class="card-text"><small class="text-muted">${data.Runtime}</small></p>
               <p class="card-text"><small class="text-muted">${data.Director}</small></p>
+              <button type="button">+ Wasted time</button>
             </div>
           </div>
         </div>
