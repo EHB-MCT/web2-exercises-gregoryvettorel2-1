@@ -1,0 +1,6 @@
+{"baseurl": "mongodb+srv://greg:<password>@cluster0.6brqs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+"username": "greg",
+"password": "greg",
+"database": "TestDB",
+"url": "mongodb+srv://greg:greg@cluster0.6brqs.mongodb.net/TestDB?retryWrites=true&w=majority"
+}
